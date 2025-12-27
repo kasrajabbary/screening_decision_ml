@@ -1,4 +1,4 @@
-# screening_decision_ml
+# Screening Outreach Decision System
 Translating screening risk scores into capacity-constrained, value-based decisions
 
 ## Overview
